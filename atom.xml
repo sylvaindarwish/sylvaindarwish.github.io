@@ -4,7 +4,7 @@
   <title><![CDATA[[khzānet al-mukense]]]></title>
   <link href="http://sylvaindarwish.github.io/atom.xml" rel="self"/>
   <link href="http://sylvaindarwish.github.io/"/>
-  <updated>2017-02-12T18:06:14+02:00</updated>
+  <updated>2017-02-12T18:10:10+02:00</updated>
   <id>http://sylvaindarwish.github.io/</id>
   <author>
     <name><![CDATA[darwish]]></name>
@@ -18,7 +18,7 @@
     <link href="http://sylvaindarwish.github.io/blog/2017/02/12/james-on-will/"/>
     <updated>2017-02-12T17:16:23+02:00</updated>
     <id>http://sylvaindarwish.github.io/blog/2017/02/12/james-on-will</id>
-    <content type="html"><![CDATA[<p><img class="[class names]" src="http://sylvaindarwish.github.io/images/photos/jamesonwill.jpg" title="[title:&#34;From *Varieties of Religious Experience*:&#34;]" alt="[title:&#34;From *Varieties of Religious Experience*:&#34;]"></p>
+    <content type="html"><![CDATA[<p><img class="center" src="http://sylvaindarwish.github.io/images/photos/jamesonwill.jpg" title="[title:&#34;From *Varieties of Religious Experience*:&#34;]" alt="[title:&#34;From *Varieties of Religious Experience*:&#34;]"></p>
 ]]></content>
   </entry>
   
@@ -27,7 +27,7 @@
     <link href="http://sylvaindarwish.github.io/blog/2017/02/12/reclaim-our-sea/"/>
     <updated>2017-02-12T16:26:36+02:00</updated>
     <id>http://sylvaindarwish.github.io/blog/2017/02/12/reclaim-our-sea</id>
-    <content type="html"><![CDATA[<p><img src="http://sylvaindarwish.github.io/images/photos/reclaimoursea.jpg"></p>
+    <content type="html"><![CDATA[<p><img class="center" src="http://sylvaindarwish.github.io/images/photos/reclaimoursea.jpg"></p>
 ]]></content>
   </entry>
   
