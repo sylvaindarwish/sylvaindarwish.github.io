@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow:
 
-Sitemap: http://sylvaindarwish.github.io/sitemap.xml 
+Sitemap: http://sylvaindarwish.github.io/sitemap.xml
