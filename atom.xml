@@ -4,7 +4,7 @@
   <title><![CDATA[[khzānet al-mukense]]]></title>
   <link href="http://sylvaindarwish.github.io/atom.xml" rel="self"/>
   <link href="http://sylvaindarwish.github.io/"/>
-  <updated>2017-02-14T10:18:58+02:00</updated>
+  <updated>2017-02-14T15:47:06+02:00</updated>
   <id>http://sylvaindarwish.github.io/</id>
   <author>
     <name><![CDATA[darwish]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Unfair-to-sheep]]></title>
+    <link href="http://sylvaindarwish.github.io/blog/2017/02/14/unfair-to-sheep/"/>
+    <updated>2017-02-14T15:43:56+02:00</updated>
+    <id>http://sylvaindarwish.github.io/blog/2017/02/14/unfair-to-sheep</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://sylvaindarwish.github.io/images/photos/sheep.jpg" title="[title:&#34;don't sell your mind&#34;]" alt="[title:&#34;don't sell your mind&#34;]"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Pigeons]]></title>
