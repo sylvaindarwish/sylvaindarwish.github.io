@@ -4,7 +4,7 @@
   <title><![CDATA[[khzānet al-mukense]]]></title>
   <link href="http://sylvaindarwish.github.io/atom.xml" rel="self"/>
   <link href="http://sylvaindarwish.github.io/"/>
-  <updated>2017-02-15T18:38:49+02:00</updated>
+  <updated>2017-02-16T12:01:20+02:00</updated>
   <id>http://sylvaindarwish.github.io/</id>
   <author>
     <name><![CDATA[darwish]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dasein, the Office Cat]]></title>
+    <link href="http://sylvaindarwish.github.io/blog/2017/02/16/dasein-the-office-cat/"/>
+    <updated>2017-02-16T12:00:21+02:00</updated>
+    <id>http://sylvaindarwish.github.io/blog/2017/02/16/dasein-the-office-cat</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://sylvaindarwish.github.io/images/photos/dasein.jpg" title="[title:&#34;&#34;]" alt="[title:&#34;&#34;]"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Unfair to Sheep]]></title>
