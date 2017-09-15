@@ -4,7 +4,7 @@
   <title><![CDATA[[khzānet al-mukense]]]></title>
   <link href="http://sylvaindarwish.github.io/atom.xml" rel="self"/>
   <link href="http://sylvaindarwish.github.io/"/>
-  <updated>2017-03-01T17:07:28+02:00</updated>
+  <updated>2017-09-15T08:20:40+03:00</updated>
   <id>http://sylvaindarwish.github.io/</id>
   <author>
     <name><![CDATA[darwish]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Visitor in the Office]]></title>
+    <link href="http://sylvaindarwish.github.io/blog/2017/09/15/a-visitor-in-the-office/"/>
+    <updated>2017-09-15T08:16:33+03:00</updated>
+    <id>http://sylvaindarwish.github.io/blog/2017/09/15/a-visitor-in-the-office</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://sylvaindarwish.github.io/images/photos/refuge.jpg" title="[title:&#34;&#34;]" alt="[title:&#34;&#34;]"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[We Hold Ourselves in Place...]]></title>
