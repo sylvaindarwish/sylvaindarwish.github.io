@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://sylvaindarwish.github.io/blog/2019/07/03/who-am-i-to-you/</loc>
+<lastmod>2019-07-03T17:00:04+03:00</lastmod>
+</url>
+<url>
 <loc>http://sylvaindarwish.github.io/blog/2018/06/14/worldliness/</loc>
 <lastmod>2018-06-14T12:06:50+03:00</lastmod>
 </url>
@@ -57,10 +61,10 @@
 <lastmod>2017-02-12T16:26:36+02:00</lastmod>
 </url>
 <url>
-<loc>http://sylvaindarwish.github.io/blog/archives/</loc>
+<loc>http://sylvaindarwish.github.io/</loc>
 </url>
 <url>
-<loc>http://sylvaindarwish.github.io/</loc>
+<loc>http://sylvaindarwish.github.io/blog/archives/</loc>
 </url>
 <url>
 <loc>http://sylvaindarwish.github.io/why-the-broom-closet/</loc>
@@ -70,5 +74,8 @@
 </url>
 <url>
 <loc>http://sylvaindarwish.github.io/blog/categories/arendt/</loc>
+</url>
+<url>
+<loc>http://sylvaindarwish.github.io/page2/</loc>
 </url>
 </urlset>
