@@ -1,0 +1,9 @@
+---
+layout: post
+title: "7500 years ago"
+date: 2017-02-18 12:48:03 +0200
+comments: true
+categories: 
+---
+
+{% img center /images/photos/dog.jpg [title:""] %}

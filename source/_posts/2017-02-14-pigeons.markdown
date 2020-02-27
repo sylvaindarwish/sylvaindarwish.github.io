@@ -1,0 +1,13 @@
+---
+layout: post
+title: "pigeons"
+date: 2017-02-14 10:08:10 +0200
+comments: false
+categories: 
+---
+
+"Not very many kinds of other-than-human critters have convinced human skeptics that the animals recognize themselves in a mirror—a talent made known to scientists by such actions as picking at paint spots or other marks on one’s body that are visible only in a mirror. Pigeons share this capacity with, at least, human children over two years old, rhesus macaques, chimpanzees, magpies, dolphins, and elephants […] Pigeons passed their  first mirror tests in the laboratories of B. F. Skinner in 1981. In 2008, *Science News* reported that Keio University researchers showed that, even with  five- to seven-second time delays, pigeons did better at self-recognition tests with both mirrors and live video images of themselves than three-year-old human children. Pigeons pick out different people in photographs very well too, and in Professor Shigeru Watanabe’s Laboratory of Comparative Cognitive Neuroscience at Keio University, pigeons could tell the difference between paintings by Monet or Picasso, and even generalize to discriminate unfamiliar paintings from different styles and schools by various painters."
+
+Haraway, Donna J. 2016. *Staying with the Trouble: Making Kin in the Chthulucene*. Durham, N.C.: Duke University Press.
+
+
